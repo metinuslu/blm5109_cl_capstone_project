@@ -1,5 +1,8 @@
 # By Metin Uslu
 garbage
+data/raw/
+.ipynb_checkpoints
+__pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
