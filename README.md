@@ -69,7 +69,7 @@ jupyter notebook
 ## In-Context Learning(ICL)
     Not Reay Yet
 
-## Evolution
+## Evaluation
     Language Model Evaluation Harness - https://github.com/EleutherAI/lm-evaluation-harness  
 
 ## Preprocess & Modelling
