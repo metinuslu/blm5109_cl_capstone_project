@@ -1,0 +1,45 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A
+25405,İlişkiler,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,"['Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.'
+ 'İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.'
+ '[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.'
+ 'Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.']",wikihow~41873,train,indomain,2,"[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.
+Şıklar:
+A- Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.
+B- İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.
+C- [alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.
+D- Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.","[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.",C
+31036,İlişkiler,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.",,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.","['[title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.'
+ '[title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.'
+ 'Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.'
+ '[title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.']",wikihow~51138,val,indomain,2,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.
+Şıklar:
+A- [title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.
+B- [title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.
+C- Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.
+D- [title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.",Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.,C
+27811,Disk köpeği,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar.",ördekler,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler","['İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.'
+ 'sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.'
+ 'Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.'
+ 'telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.']",activitynet~v_2wcD0wSzB5w,train,indomain,2,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler
+Şıklar:
+A- İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.
+B- sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.
+C- Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.
+D- telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.",Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.,C
+12283,Kano sporu,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor.",o,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O","['kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.'
+ 'Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.'
+ 'daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.'
+ 'kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.']",activitynet~v_QnATCZ_P9DE,train,indomain,0,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O
+Şıklar:
+A- kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.
+B- Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.
+C- daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.
+D- kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.",kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.,A

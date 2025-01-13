@@ -1,0 +1,31 @@
+id,question,choices,answerKey,answer
+Mercury_7115273,"Bir gölün yüzeyindeki büyük alg çoğalmaları hangi abiyotik faktörün dibe ulaşmasını engeller?
+Şıklar:
+A. su
+B. tuz
+C. ışık
+D. oksijen","{'text': ['su', 'tuz', 'ışık', 'oksijen'], 'label': ['A', 'B', 'C', 'D']}",C,ışık
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı
+NYSEDREGENTS_2007_8_23,"Doğrudan güneş ışığına maruz bırakıldığında hangi nesne en görünür ışık enerjisini emer?
+Şıklar:
+1. bir parça şeffaf cam
+2. bir kartopu
+3. parlak bir ayna
+4. siyah bir kazak","{'text': ['bir parça şeffaf cam', 'bir kartopu', 'parlak bir ayna', 'siyah bir kazak'], 'label': ['1', '2', '3', '4']}",4,siyah bir kazak
+Mercury_SC_416529,"Neden orman ağaçlarının yapraklarının çoğu ağacın tepesinde yetişiyor?
+Şıklar:
+A. tohumları dağıtmak
+B. güneş ışığını yakalamak için
+C. bagajı gölgelemek
+D. su toplamak","{'text': ['tohumları dağıtmak', 'güneş ışığını yakalamak için', 'bagajı gölgelemek', 'su toplamak'], 'label': ['A', 'B', 'C', 'D']}",B,güneş ışığını yakalamak için
+LEAP_2008_4_10288,"Bir bölgede çok fazla balık avlanması ekosistemi nasıl etkiler?
+Şıklar:
+A. Balıklar, yakalanan balıkların yerine çok daha fazla yumurta bırakacaktır.
+B. Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.
+C. Balıkların yediği organizmalar tehlike altına girecek.
+D. İnsanlar çok fazla balık yiyip hastalanabilirler.","{'text': ['Balıklar, yakalanan balıkların yerine çok daha fazla yumurta bırakacaktır.', 'Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.', 'Balıkların yediği organizmalar tehlike altına girecek.', 'İnsanlar çok fazla balık yiyip hastalanabilirler.'], 'label': ['A', 'B', 'C', 'D']}",B,Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.

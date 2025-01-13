@@ -1,0 +1,31 @@
+id,question,choices,answerKey,answer
+ACTAAP_2008_7_3,"Bilimsel bir araştırmayla hangi soru büyük olasılıkla belirlenebilir?
+Şıklar:
+A. Bir sonraki lotoyu kim kazanacak?
+B. Bir sonraki maçı hangi futbol takımı kazanacak?
+C. Domates yetiştirmek için gereken ışık miktarı nedir?
+D. Hangi dört kuş tüyü türü en güzel renklere sahiptir?","{'text': ['Bir sonraki lotoyu kim kazanacak?', 'Bir sonraki maçı hangi futbol takımı kazanacak?', 'Domates yetiştirmek için gereken ışık miktarı nedir?', 'Hangi dört kuş tüyü türü en güzel renklere sahiptir?'], 'label': ['A', 'B', 'C', 'D']}",C,Domates yetiştirmek için gereken ışık miktarı nedir?
+Mercury_7115273,"Bir gölün yüzeyindeki büyük alg çoğalmaları hangi abiyotik faktörün dibe ulaşmasını engeller?
+Şıklar:
+A. su
+B. tuz
+C. ışık
+D. oksijen","{'text': ['su', 'tuz', 'ışık', 'oksijen'], 'label': ['A', 'B', 'C', 'D']}",C,ışık
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı
+Mercury_SC_416529,"Neden orman ağaçlarının yapraklarının çoğu ağacın tepesinde yetişiyor?
+Şıklar:
+A. tohumları dağıtmak
+B. güneş ışığını yakalamak için
+C. bagajı gölgelemek
+D. su toplamak","{'text': ['tohumları dağıtmak', 'güneş ışığını yakalamak için', 'bagajı gölgelemek', 'su toplamak'], 'label': ['A', 'B', 'C', 'D']}",B,güneş ışığını yakalamak için
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul

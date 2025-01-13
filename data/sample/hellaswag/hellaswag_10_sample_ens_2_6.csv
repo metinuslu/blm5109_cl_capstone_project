@@ -1,0 +1,44 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+39508,Finans ve İşletme,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.",,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.","['[alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.'
+ 'Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.'
+ 'Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.'
+ '[alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.']",wikihow~65031,train,indomain,1,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.
+Şıklar:
+A- [alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.
+B- Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.
+C- Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.
+D- [alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.",Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.,B
+40261,Yaprakları yan yatan,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor.,her ikisi de köpekler,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler,"['çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.'
+ 'arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.'
+ 'Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.'
+ 'bunu çok nazik olmaya çalışarak yap.']",activitynet~v_0MtST08F2Xc,train,indomain,2,"Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler
+Şıklar:
+A- çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.
+B- arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.
+C- Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.
+D- bunu çok nazik olmaya çalışarak yap.","Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.",C
+31036,İlişkiler,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.",,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.","['[title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.'
+ '[title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.'
+ 'Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.'
+ '[title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.']",wikihow~51138,val,indomain,2,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.
+Şıklar:
+A- [title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.
+B- [title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.
+C- Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.
+D- [title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.",Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.,C
+27366,Paralel çubukların kullanılması,Bir adam iki çubuğun üzerinde kendini kaldırıyor.,insanlar,Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar,"['arkasında bir sonraki çubuklara atlıyor.'
+ 'etrafta dolaşan bir bisikletin arkasında oturuyorlar.'
+ 'Arkasındaki bir barda oturup izliyorlar.' 'arkasında oturup izliyorlar.']",activitynet~v_r9eXOf4hvCE,train,indomain,3,"Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar
+Şıklar:
+A- arkasında bir sonraki çubuklara atlıyor.
+B- etrafta dolaşan bir bisikletin arkasında oturuyorlar.
+C- Arkasındaki bir barda oturup izliyorlar.
+D- arkasında oturup izliyorlar.",arkasında oturup izliyorlar.,D
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A

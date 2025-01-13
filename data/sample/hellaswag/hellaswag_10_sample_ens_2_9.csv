@@ -1,0 +1,45 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+39508,Finans ve İşletme,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.",,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.","['[alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.'
+ 'Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.'
+ 'Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.'
+ '[alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.']",wikihow~65031,train,indomain,1,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.
+Şıklar:
+A- [alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.
+B- Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.
+C- Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.
+D- [alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.",Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.,B
+27811,Disk köpeği,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar.",ördekler,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler","['İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.'
+ 'sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.'
+ 'Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.'
+ 'telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.']",activitynet~v_2wcD0wSzB5w,train,indomain,2,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler
+Şıklar:
+A- İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.
+B- sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.
+C- Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.
+D- telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.",Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.,C
+25405,İlişkiler,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,"['Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.'
+ 'İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.'
+ '[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.'
+ 'Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.']",wikihow~41873,train,indomain,2,"[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.
+Şıklar:
+A- Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.
+B- İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.
+C- [alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.
+D- Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.","[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.",C
+27366,Paralel çubukların kullanılması,Bir adam iki çubuğun üzerinde kendini kaldırıyor.,insanlar,Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar,"['arkasında bir sonraki çubuklara atlıyor.'
+ 'etrafta dolaşan bir bisikletin arkasında oturuyorlar.'
+ 'Arkasındaki bir barda oturup izliyorlar.' 'arkasında oturup izliyorlar.']",activitynet~v_r9eXOf4hvCE,train,indomain,3,"Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar
+Şıklar:
+A- arkasında bir sonraki çubuklara atlıyor.
+B- etrafta dolaşan bir bisikletin arkasında oturuyorlar.
+C- Arkasındaki bir barda oturup izliyorlar.
+D- arkasında oturup izliyorlar.",arkasında oturup izliyorlar.,D
+46795,Gitar çalıyorum,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor.,o,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O,"['ağzından dumanı üflemeye devam ediyor.'
+ 'sigarayı cebine atar ve gitar çalmaya devam eder.'
+ 'duraklar ve başını eğerek oynamaya devam eder.'
+ 'mikrofona şarkı söylemeye başlar.']",activitynet~v_a8dUtKcAunw,train,indomain,3,"Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O
+Şıklar:
+A- ağzından dumanı üflemeye devam ediyor.
+B- sigarayı cebine atar ve gitar çalmaya devam eder.
+C- duraklar ve başını eğerek oynamaya devam eder.
+D- mikrofona şarkı söylemeye başlar.",mikrofona şarkı söylemeye başlar.,D

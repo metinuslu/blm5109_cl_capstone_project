@@ -1,0 +1,31 @@
+id,question,choices,answerKey,answer
+Mercury_SC_400700,"Hangi gerçek neden Dünya'da hayat olduğunu ama Ay'da olmadığını en iyi açıklıyor?
+Şıklar:
+A. Ay'ın yerçekimi yoktur.
+B. Ay Güneş'in etrafında dönmez.
+C. Ay'da çok az su ve oksijen vardır.
+D. Ay Dünya'dan çok daha küçüktür.","{'text': [""Ay'ın yerçekimi yoktur."", ""Ay Güneş'in etrafında dönmez."", ""Ay'da çok az su ve oksijen vardır."", ""Ay Dünya'dan çok daha küçüktür.""], 'label': ['A', 'B', 'C', 'D']}",C,Ay'da çok az su ve oksijen vardır.
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul
+Mercury_7115273,"Bir gölün yüzeyindeki büyük alg çoğalmaları hangi abiyotik faktörün dibe ulaşmasını engeller?
+Şıklar:
+A. su
+B. tuz
+C. ışık
+D. oksijen","{'text': ['su', 'tuz', 'ışık', 'oksijen'], 'label': ['A', 'B', 'C', 'D']}",C,ışık
+NYSEDREGENTS_2007_8_23,"Doğrudan güneş ışığına maruz bırakıldığında hangi nesne en görünür ışık enerjisini emer?
+Şıklar:
+1. bir parça şeffaf cam
+2. bir kartopu
+3. parlak bir ayna
+4. siyah bir kazak","{'text': ['bir parça şeffaf cam', 'bir kartopu', 'parlak bir ayna', 'siyah bir kazak'], 'label': ['1', '2', '3', '4']}",4,siyah bir kazak
+ACTAAP_2008_7_3,"Bilimsel bir araştırmayla hangi soru büyük olasılıkla belirlenebilir?
+Şıklar:
+A. Bir sonraki lotoyu kim kazanacak?
+B. Bir sonraki maçı hangi futbol takımı kazanacak?
+C. Domates yetiştirmek için gereken ışık miktarı nedir?
+D. Hangi dört kuş tüyü türü en güzel renklere sahiptir?","{'text': ['Bir sonraki lotoyu kim kazanacak?', 'Bir sonraki maçı hangi futbol takımı kazanacak?', 'Domates yetiştirmek için gereken ışık miktarı nedir?', 'Hangi dört kuş tüyü türü en güzel renklere sahiptir?'], 'label': ['A', 'B', 'C', 'D']}",C,Domates yetiştirmek için gereken ışık miktarı nedir?

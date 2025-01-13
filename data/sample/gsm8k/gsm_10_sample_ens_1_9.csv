@@ -1,0 +1,137 @@
+question,raw_answer,answer,short_answer,formated_answer
+"Matteo saatte 55 mil hızla 4 saat seyahat etti. Shandy saatte 45 mil hızla 10 saat seyahat etti. Shandy, Matteo'dan kaç mil daha fazla yol kat etti?","Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir.
+#### 230","Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir.",230,"{'answer': ""Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir."", 'short_answer': '230'}"
+"Elvis'in aylık birikim hedefi 1125 dolar. Nisan ayında, hedefine ulaşmak için ayın ilk yarısında biriktirdiğinin günde iki katını ayın ikinci yarısında biriktirmek istiyor. Ayın ikinci yarısındaki her gün için ne kadar biriktirmesi gerekiyor?","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor. #### 50","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor.",50,"{'answer': ""Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.\n\nAyın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.\n\nBu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:\n\n(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.\n\nBu denklemi çözdüğümüzde:\n\n15*(3y/2) = 1125 dolar\n\n45y/2 = 1125 dolar\n\ny = 1125 dolar * (2/45)\n\ny = 50 dolar\n\nBu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor."", 'short_answer': '50'}"
+"Theo'nun yaklaşan Güney Afrika iş gezisi için harcamak istediği 6000 doları var. Her biri 100 dolardan 6 iş takımı, her biri 50 dolardan 3 bavul alıyor, bir iş takımının maliyetinin 5 katından 700 dolar daha pahalı bir uçak bileti alıyor. Bu gezisi için 2000 dolar biriktirmek istiyor, Güney Afrika'daki iş ortaklarına hediye almak için ne kadar harcaması gerekiyor?","Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.
+Theo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.
+Theo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.
+Theo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir.
+#### 2050","Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.
+Theo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.
+Theo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.
+Theo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir.",2050,"{'answer': ""Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.\nTheo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.\nTheo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.\nTheo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir."", 'short_answer': '2050'}"
+"Dr. Wertz'in okulunda kız öğrencilerin sayısının iki katı kadar erkek öğrenci vardır. Eğer 60 kız öğrenci varsa ve her öğretmene düşen öğrenci sayısı 5 ise, okulda kaç öğretmen vardır?","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır. #### 36","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır.",36,"{'answer': ""Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır."", 'short_answer': '36'}"
+"Elvis'in aylık birikim hedefi 1125 dolar. Nisan ayında, hedefine ulaşmak için ayın ilk yarısında biriktirdiğinin günde iki katını ayın ikinci yarısında biriktirmek istiyor. Ayın ikinci yarısındaki her gün için ne kadar biriktirmesi gerekiyor?","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor. #### 50","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor.",50,"{'answer': ""Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.\n\nAyın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.\n\nBu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:\n\n(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.\n\nBu denklemi çözdüğümüzde:\n\n15*(3y/2) = 1125 dolar\n\n45y/2 = 1125 dolar\n\ny = 1125 dolar * (2/45)\n\ny = 50 dolar\n\nBu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor."", 'short_answer': '50'}"
+"Jennie annesinin ofisinde yardım ediyor. Damgalanması gereken 60 mektupluk bir yığını ve zaten damgalanmış mektupların bir yığını var. Damgalanması gereken mektupların üçte birine pul yapıştırıyor. Şimdi damgalanmış mektup yığınında 30 mektup varsa, Jennie başladığında bu yığında kaç mektup vardı?","Jennie 60 mektubun üçte birine, yani 60/3=20 mektuba pul yapıştırıyor. Eğer şu anda damgalanmış mektup yığınında 30 mektup varsa ve Jennie 20 tanesini yeni damgaladıysa, başlangıçta damgalanmış mektup yığınında 30-20=10 mektup vardı. 
+
+#### 10","Jennie 60 mektubun üçte birine, yani 60/3=20 mektuba pul yapıştırıyor. Eğer şu anda damgalanmış mektup yığınında 30 mektup varsa ve Jennie 20 tanesini yeni damgaladıysa, başlangıçta damgalanmış mektup yığınında 30-20=10 mektup vardı.",10,"{'answer': 'Jennie 60 mektubun üçte birine, yani 60/3=20 mektuba pul yapıştırıyor. Eğer şu anda damgalanmış mektup yığınında 30 mektup varsa ve Jennie 20 tanesini yeni damgaladıysa, başlangıçta damgalanmış mektup yığınında 30-20=10 mektup vardı.', 'short_answer': '10'}"
+"Matteo saatte 55 mil hızla 4 saat seyahat etti. Shandy saatte 45 mil hızla 10 saat seyahat etti. Shandy, Matteo'dan kaç mil daha fazla yol kat etti?","Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir.
+#### 230","Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir.",230,"{'answer': ""Matteo saatte 55 mil hızla 4 saat boyunca seyahat ettiğinde toplamda 55 * 4 = 220 mil yol almış olur. Shandy ise saatte 45 mil hızla 10 saat boyunca seyahat ettiğinde toplamda 45 * 10 = 450 mil yol almış olur. Shandy'nin Matteo'dan daha fazla kat ettiği yol miktarını bulmak için Shandy'nin yolunu Matteo'nun yolundan çıkartmamız gerekiyor: 450 - 220 = 230 mil. Dolayısıyla Shandy, Matteo'dan 230 mil daha fazla yol kat etmiştir."", 'short_answer': '230'}"
+"Dr. Wertz'in okulunda kız öğrencilerin sayısının iki katı kadar erkek öğrenci vardır. Eğer 60 kız öğrenci varsa ve her öğretmene düşen öğrenci sayısı 5 ise, okulda kaç öğretmen vardır?","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır. #### 36","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır.",36,"{'answer': ""Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır."", 'short_answer': '36'}"
+"Theo'nun yaklaşan Güney Afrika iş gezisi için harcamak istediği 6000 doları var. Her biri 100 dolardan 6 iş takımı, her biri 50 dolardan 3 bavul alıyor, bir iş takımının maliyetinin 5 katından 700 dolar daha pahalı bir uçak bileti alıyor. Bu gezisi için 2000 dolar biriktirmek istiyor, Güney Afrika'daki iş ortaklarına hediye almak için ne kadar harcaması gerekiyor?","Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.
+Theo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.
+Theo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.
+Theo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir.
+#### 2050","Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.
+Theo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.
+Theo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.
+Theo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir.",2050,"{'answer': ""Theo 6 iş takımı için 6 takım * 100 dolar/takım = 600 dolar harcıyor.\nTheo 3 bavul için 3 bavul * 50 dolar/bavul = 150 dolar harcıyor.\nTheo, bir iş takımının maliyetinin 5 katı artı 700 dolar olan bir uçak bileti için 700 dolar + 5 * 100 dolar = 1200 dolar harcıyor.\nTheo, Güney Afrika'daki iş ortaklarına hediye almak için 6000 dolar - 600 dolar - 150 dolar - 1200 dolar - 2000 dolar = 2050 dolar harcayabilir."", 'short_answer': '2050'}"
+"Elvis'in aylık birikim hedefi 1125 dolar. Nisan ayında, hedefine ulaşmak için ayın ilk yarısında biriktirdiğinin günde iki katını ayın ikinci yarısında biriktirmek istiyor. Ayın ikinci yarısındaki her gün için ne kadar biriktirmesi gerekiyor?","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor. #### 50","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor.",50,"{'answer': ""Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.\n\nAyın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.\n\nBu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:\n\n(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.\n\nBu denklemi çözdüğümüzde:\n\n15*(3y/2) = 1125 dolar\n\n45y/2 = 1125 dolar\n\ny = 1125 dolar * (2/45)\n\ny = 50 dolar\n\nBu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor."", 'short_answer': '50'}"

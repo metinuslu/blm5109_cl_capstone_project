@@ -1,0 +1,31 @@
+id,question,choices,answerKey,answer
+Mercury_SC_400700,"Hangi gerçek neden Dünya'da hayat olduğunu ama Ay'da olmadığını en iyi açıklıyor?
+Şıklar:
+A. Ay'ın yerçekimi yoktur.
+B. Ay Güneş'in etrafında dönmez.
+C. Ay'da çok az su ve oksijen vardır.
+D. Ay Dünya'dan çok daha küçüktür.","{'text': [""Ay'ın yerçekimi yoktur."", ""Ay Güneş'in etrafında dönmez."", ""Ay'da çok az su ve oksijen vardır."", ""Ay Dünya'dan çok daha küçüktür.""], 'label': ['A', 'B', 'C', 'D']}",C,Ay'da çok az su ve oksijen vardır.
+Mercury_183978,"Bunlardan hangisi yırtıcı hayvanlara karşı savunmaya yönelik bir adaptasyon örneğidir?
+Şıklar:
+A. zürafanın uzun boynu
+B. yavru geyik lekeleri
+C. su samuru yağlı kürkü
+D. balığın solungaçları","{'text': ['zürafanın uzun boynu', 'yavru geyik lekeleri', 'su samuru yağlı kürkü', 'balığın solungaçları'], 'label': ['A', 'B', 'C', 'D']}",B,yavru geyik lekeleri
+Mercury_7215740,"Bilim insanları bir enfeksiyonun nedenini belirlemek için bir hayvanın hücrelerini analiz etti. Bilim adamları analizin sonuçları konusunda hemfikir değildi. Bu anlaşmazlık bilimin doğası hakkında neye işaret ediyor?
+Şıklar:
+A. Bilim insanları verileri farklı formatlarda sunabilirler.
+B. Bilimsel sonuçlar farklı şekillerde yorumlanabilir.
+C. Bilim adamları desteklenmeyen iddialarda bulunabilirler.
+D. Bilimsel sonuçlar çoğu zaman beklenen sonuçlardan farklıdır.","{'text': ['Bilim insanları verileri farklı formatlarda sunabilirler.', 'Bilimsel sonuçlar farklı şekillerde yorumlanabilir.', 'Bilim adamları desteklenmeyen iddialarda bulunabilirler.', 'Bilimsel sonuçlar çoğu zaman beklenen sonuçlardan farklıdır.'], 'label': ['A', 'B', 'C', 'D']}",B,Bilimsel sonuçlar farklı şekillerde yorumlanabilir.
+NYSEDREGENTS_2007_8_23,"Doğrudan güneş ışığına maruz bırakıldığında hangi nesne en görünür ışık enerjisini emer?
+Şıklar:
+1. bir parça şeffaf cam
+2. bir kartopu
+3. parlak bir ayna
+4. siyah bir kazak","{'text': ['bir parça şeffaf cam', 'bir kartopu', 'parlak bir ayna', 'siyah bir kazak'], 'label': ['1', '2', '3', '4']}",4,siyah bir kazak
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı

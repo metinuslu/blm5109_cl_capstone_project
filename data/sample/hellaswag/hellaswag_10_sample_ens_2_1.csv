@@ -1,0 +1,44 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+25405,İlişkiler,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,"['Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.'
+ 'İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.'
+ '[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.'
+ 'Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.']",wikihow~41873,train,indomain,2,"[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.
+Şıklar:
+A- Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.
+B- İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.
+C- [alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.
+D- Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.","[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.",C
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A
+27366,Paralel çubukların kullanılması,Bir adam iki çubuğun üzerinde kendini kaldırıyor.,insanlar,Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar,"['arkasında bir sonraki çubuklara atlıyor.'
+ 'etrafta dolaşan bir bisikletin arkasında oturuyorlar.'
+ 'Arkasındaki bir barda oturup izliyorlar.' 'arkasında oturup izliyorlar.']",activitynet~v_r9eXOf4hvCE,train,indomain,3,"Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar
+Şıklar:
+A- arkasında bir sonraki çubuklara atlıyor.
+B- etrafta dolaşan bir bisikletin arkasında oturuyorlar.
+C- Arkasındaki bir barda oturup izliyorlar.
+D- arkasında oturup izliyorlar.",arkasında oturup izliyorlar.,D
+12283,Kano sporu,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor.",o,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O","['kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.'
+ 'Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.'
+ 'daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.'
+ 'kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.']",activitynet~v_QnATCZ_P9DE,train,indomain,0,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O
+Şıklar:
+A- kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.
+B- Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.
+C- daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.
+D- kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.",kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.,A
+29870,İlişkiler,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.",,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.","['Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.'
+ 'Ancak size seks yapmamanız için bir neden verecek cesareti varsa, o zaman bunun bir önemi yoktur. Eğer bunu yapmazsa aslında söylenecek bir şey yok.'
+ 'Bazen erkekler o kadar gergin olurlar ki farkına bile varmazlar ve çok çabuk heyecanlanırlar. Eğer risk alacak ve ona aşık olacak cesaretiniz varsa, o zaman 10 gün içinde kendinize gelmeniz neredeyse garantidir.'
+ '[title] Bilin ki onun ""bir kızın geçmişi olsaydı birlikte ne yapabileceğinizi düşünüyorsunuz? [adım]!"" gibi bir şey söylediğini duyarsanız, bunu bir güven işareti olarak almalısınız.']",wikihow~49238,train,indomain,0,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.
+Şıklar:
+A- Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.
+B- Ancak size seks yapmamanız için bir neden verecek cesareti varsa, o zaman bunun bir önemi yoktur. Eğer bunu yapmazsa aslında söylenecek bir şey yok.
+C- Bazen erkekler o kadar gergin olurlar ki farkına bile varmazlar ve çok çabuk heyecanlanırlar. Eğer risk alacak ve ona aşık olacak cesaretiniz varsa, o zaman 10 gün içinde kendinize gelmeniz neredeyse garantidir.
+D- [title] Bilin ki onun ""bir kızın geçmişi olsaydı birlikte ne yapabileceğinizi düşünüyorsunuz? [adım]!"" gibi bir şey söylediğini duyarsanız, bunu bir güven işareti olarak almalısınız.","Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.",A

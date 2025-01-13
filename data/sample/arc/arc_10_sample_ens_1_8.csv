@@ -1,0 +1,61 @@
+id,question,choices,answerKey,answer
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı
+ACTAAP_2008_7_3,"Bilimsel bir araştırmayla hangi soru büyük olasılıkla belirlenebilir?
+Şıklar:
+A. Bir sonraki lotoyu kim kazanacak?
+B. Bir sonraki maçı hangi futbol takımı kazanacak?
+C. Domates yetiştirmek için gereken ışık miktarı nedir?
+D. Hangi dört kuş tüyü türü en güzel renklere sahiptir?","{'text': ['Bir sonraki lotoyu kim kazanacak?', 'Bir sonraki maçı hangi futbol takımı kazanacak?', 'Domates yetiştirmek için gereken ışık miktarı nedir?', 'Hangi dört kuş tüyü türü en güzel renklere sahiptir?'], 'label': ['A', 'B', 'C', 'D']}",C,Domates yetiştirmek için gereken ışık miktarı nedir?
+ACTAAP_2008_7_3,"Bilimsel bir araştırmayla hangi soru büyük olasılıkla belirlenebilir?
+Şıklar:
+A. Bir sonraki lotoyu kim kazanacak?
+B. Bir sonraki maçı hangi futbol takımı kazanacak?
+C. Domates yetiştirmek için gereken ışık miktarı nedir?
+D. Hangi dört kuş tüyü türü en güzel renklere sahiptir?","{'text': ['Bir sonraki lotoyu kim kazanacak?', 'Bir sonraki maçı hangi futbol takımı kazanacak?', 'Domates yetiştirmek için gereken ışık miktarı nedir?', 'Hangi dört kuş tüyü türü en güzel renklere sahiptir?'], 'label': ['A', 'B', 'C', 'D']}",C,Domates yetiştirmek için gereken ışık miktarı nedir?
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı
+Mercury_183978,"Bunlardan hangisi yırtıcı hayvanlara karşı savunmaya yönelik bir adaptasyon örneğidir?
+Şıklar:
+A. zürafanın uzun boynu
+B. yavru geyik lekeleri
+C. su samuru yağlı kürkü
+D. balığın solungaçları","{'text': ['zürafanın uzun boynu', 'yavru geyik lekeleri', 'su samuru yağlı kürkü', 'balığın solungaçları'], 'label': ['A', 'B', 'C', 'D']}",B,yavru geyik lekeleri
+Mercury_7215740,"Bilim insanları bir enfeksiyonun nedenini belirlemek için bir hayvanın hücrelerini analiz etti. Bilim adamları analizin sonuçları konusunda hemfikir değildi. Bu anlaşmazlık bilimin doğası hakkında neye işaret ediyor?
+Şıklar:
+A. Bilim insanları verileri farklı formatlarda sunabilirler.
+B. Bilimsel sonuçlar farklı şekillerde yorumlanabilir.
+C. Bilim adamları desteklenmeyen iddialarda bulunabilirler.
+D. Bilimsel sonuçlar çoğu zaman beklenen sonuçlardan farklıdır.","{'text': ['Bilim insanları verileri farklı formatlarda sunabilirler.', 'Bilimsel sonuçlar farklı şekillerde yorumlanabilir.', 'Bilim adamları desteklenmeyen iddialarda bulunabilirler.', 'Bilimsel sonuçlar çoğu zaman beklenen sonuçlardan farklıdır.'], 'label': ['A', 'B', 'C', 'D']}",B,Bilimsel sonuçlar farklı şekillerde yorumlanabilir.
+Mercury_SC_416529,"Neden orman ağaçlarının yapraklarının çoğu ağacın tepesinde yetişiyor?
+Şıklar:
+A. tohumları dağıtmak
+B. güneş ışığını yakalamak için
+C. bagajı gölgelemek
+D. su toplamak","{'text': ['tohumları dağıtmak', 'güneş ışığını yakalamak için', 'bagajı gölgelemek', 'su toplamak'], 'label': ['A', 'B', 'C', 'D']}",B,güneş ışığını yakalamak için
+Mercury_183978,"Bunlardan hangisi yırtıcı hayvanlara karşı savunmaya yönelik bir adaptasyon örneğidir?
+Şıklar:
+A. zürafanın uzun boynu
+B. yavru geyik lekeleri
+C. su samuru yağlı kürkü
+D. balığın solungaçları","{'text': ['zürafanın uzun boynu', 'yavru geyik lekeleri', 'su samuru yağlı kürkü', 'balığın solungaçları'], 'label': ['A', 'B', 'C', 'D']}",B,yavru geyik lekeleri
+MCAS_2008_8_5608,"Yeni bir organizma keşfedilirse, onu uygun krallığa sınıflandırmak için aşağıdakilerden hangisi büyük olasılıkla kullanılır?
+Şıklar:
+A. organizmanın rengi
+B. organizmanın doğal yaşam alanı
+C. organizmanın anatomisinin yapısı
+D. organizmanın bulunduğu yer","{'text': ['organizmanın rengi', 'organizmanın doğal yaşam alanı', 'organizmanın anatomisinin yapısı', 'organizmanın bulunduğu yer'], 'label': ['A', 'B', 'C', 'D']}",C,organizmanın anatomisinin yapısı

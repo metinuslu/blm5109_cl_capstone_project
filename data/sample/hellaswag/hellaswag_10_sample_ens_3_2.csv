@@ -1,0 +1,89 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+40261,Yaprakları yan yatan,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor.,her ikisi de köpekler,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler,"['çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.'
+ 'arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.'
+ 'Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.'
+ 'bunu çok nazik olmaya çalışarak yap.']",activitynet~v_0MtST08F2Xc,train,indomain,2,"Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler
+Şıklar:
+A- çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.
+B- arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.
+C- Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.
+D- bunu çok nazik olmaya çalışarak yap.","Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.",C
+31036,İlişkiler,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.",,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.","['[title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.'
+ '[title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.'
+ 'Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.'
+ '[title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.']",wikihow~51138,val,indomain,2,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.
+Şıklar:
+A- [title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.
+B- [title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.
+C- Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.
+D- [title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.",Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.,C
+46795,Gitar çalıyorum,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor.,o,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O,"['ağzından dumanı üflemeye devam ediyor.'
+ 'sigarayı cebine atar ve gitar çalmaya devam eder.'
+ 'duraklar ve başını eğerek oynamaya devam eder.'
+ 'mikrofona şarkı söylemeye başlar.']",activitynet~v_a8dUtKcAunw,train,indomain,3,"Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O
+Şıklar:
+A- ağzından dumanı üflemeye devam ediyor.
+B- sigarayı cebine atar ve gitar çalmaya devam eder.
+C- duraklar ve başını eğerek oynamaya devam eder.
+D- mikrofona şarkı söylemeye başlar.",mikrofona şarkı söylemeye başlar.,D
+25405,İlişkiler,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,,[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.,"['Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.'
+ 'İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.'
+ '[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.'
+ 'Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.']",wikihow~41873,train,indomain,2,"[header] Bir ilişkideki duygusal dağınıklığı nasıl temizleyebilirsiniz? [title] Diğer kişiyle ilgili hislerinize uyum sağlayın. [adım] Kendinize ilişkide sizi gerçekten neyin rahatsız ettiğini sorun. Rahatsız edici veya yüzleşmesi zor olsa bile duygularınızı kabul edin.
+Şıklar:
+A- Kendinize yalnız olduğunuzu ve rahatsız olmanızı gerektirecek hiçbir şey olmadığını hatırlatın. [alt adımlar] Bir ilişkiye duygusal olarak dahil olmanın anahtarı, başka bir kişiden kırgınlık veya incinme duygularını kalıcı olarak ortadan kaldırmanın imkansız olduğunu kabul etmektir.
+B- İçinizden hangi duyguların geçtiğine dikkat edin. Bazıları ile baş etmek diğerlerinden daha zordur, ancak bazıları değildir.
+C- [alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.
+D- Tavsiyede bulunmadan veya teşvik etmeden kendi duygularınızı diğer kişininkiyle karşılaştırın. [title] Diğer kişiye değil, her iki tarafın eylemlerine bakın.","[alt adımlar] Olumsuz duygularınızı bastırmaktan veya bunların kendiliğinden geçeceğini ummaktan kaçının. Fiziksel dağınıklık gibi, duygusal yük de siz ondan kurtulmak için harekete geçmediğiniz sürece kaybolmaz.",C
+27366,Paralel çubukların kullanılması,Bir adam iki çubuğun üzerinde kendini kaldırıyor.,insanlar,Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar,"['arkasında bir sonraki çubuklara atlıyor.'
+ 'etrafta dolaşan bir bisikletin arkasında oturuyorlar.'
+ 'Arkasındaki bir barda oturup izliyorlar.' 'arkasında oturup izliyorlar.']",activitynet~v_r9eXOf4hvCE,train,indomain,3,"Bir adam iki çubuğun üzerinde kendini kaldırıyor. insanlar
+Şıklar:
+A- arkasında bir sonraki çubuklara atlıyor.
+B- etrafta dolaşan bir bisikletin arkasında oturuyorlar.
+C- Arkasındaki bir barda oturup izliyorlar.
+D- arkasında oturup izliyorlar.",arkasında oturup izliyorlar.,D
+39508,Finans ve İşletme,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.",,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.","['[alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.'
+ 'Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.'
+ 'Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.'
+ '[alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.']",wikihow~65031,train,indomain,1,"[header] Zorunlu bir dilekçe nasıl sunulur [title] Diğer tarafla görüşün. [adım] Federal mahkemede kural 37, mahkemeden yardım istemeden önce diğer taraftan bilgi almak için ""iyi niyetle"" çaba göstermenizi gerektirir. Pek çok eyalet, bilgileri diğer taraftan gayri resmi olarak almaya çalışmanızı da gerektirir.
+Şıklar:
+A- [alt adımlar] Eyaletinizin hukuk muhakemesi kurallarını bulun. Eyaletiniz için hukuk muhakemesi kurallarını bulmak için bir internet arama motoru bulunmalıdır.
+B- Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.
+C- Zorlama hareketine başladığınızda tartışmanın her iki tarafıyla da konuşmak en kolayı olabilir. [title] Karşı tarafın önergeyi destekleyecek herhangi bir bilgisi olup olmadığını öğrenin.
+D- [alt adımlar] Aleyhinizdeki davanın gerçeklerini ortaya koyan "" standart "" bir önergede ısrar etmelisiniz. Standart önerge, karşı tarafın direnci artırmadan zorlamak için neyi kanıtlaması gerektiğini açıklamalıdır.",Bu nedenle önergenizi vermeden önce iletişime geçmelisiniz. [alt adımlar] İdeal olarak bir mektup göndermelisiniz.,B
+12283,Kano sporu,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor.",o,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O","['kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.'
+ 'Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.'
+ 'daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.'
+ 'kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.']",activitynet~v_QnATCZ_P9DE,train,indomain,0,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O
+Şıklar:
+A- kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.
+B- Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.
+C- daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.
+D- kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.",kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.,A
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A
+27811,Disk köpeği,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar.",ördekler,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler","['İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.'
+ 'sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.'
+ 'Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.'
+ 'telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.']",activitynet~v_2wcD0wSzB5w,train,indomain,2,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler
+Şıklar:
+A- İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.
+B- sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.
+C- Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.
+D- telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.",Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.,C
+29870,İlişkiler,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.",,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.","['Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.'
+ 'Ancak size seks yapmamanız için bir neden verecek cesareti varsa, o zaman bunun bir önemi yoktur. Eğer bunu yapmazsa aslında söylenecek bir şey yok.'
+ 'Bazen erkekler o kadar gergin olurlar ki farkına bile varmazlar ve çok çabuk heyecanlanırlar. Eğer risk alacak ve ona aşık olacak cesaretiniz varsa, o zaman 10 gün içinde kendinize gelmeniz neredeyse garantidir.'
+ '[title] Bilin ki onun ""bir kızın geçmişi olsaydı birlikte ne yapabileceğinizi düşünüyorsunuz? [adım]!"" gibi bir şey söylediğini duyarsanız, bunu bir güven işareti olarak almalısınız.']",wikihow~49238,train,indomain,0,"[header] Bir erkeği 10 gün içinde kaybetmekten nasıl kaçınılır? [title] Kıskanmayın. [adım] Kızlar, size güvenmemeniz için bir neden verene kadar erkeğinize güvenmelisiniz. Kıskanç bir kız arkadaştan daha sinir bozucu bir şey yoktur.
+Şıklar:
+A- Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.
+B- Ancak size seks yapmamanız için bir neden verecek cesareti varsa, o zaman bunun bir önemi yoktur. Eğer bunu yapmazsa aslında söylenecek bir şey yok.
+C- Bazen erkekler o kadar gergin olurlar ki farkına bile varmazlar ve çok çabuk heyecanlanırlar. Eğer risk alacak ve ona aşık olacak cesaretiniz varsa, o zaman 10 gün içinde kendinize gelmeniz neredeyse garantidir.
+D- [title] Bilin ki onun ""bir kızın geçmişi olsaydı birlikte ne yapabileceğinizi düşünüyorsunuz? [adım]!"" gibi bir şey söylediğini duyarsanız, bunu bir güven işareti olarak almalısınız.","Kız arkadaşları olmasına izin veriliyor, eski bir deyişte olduğu gibi ""Bakabilirsin ama dokunma."" Aynı şey senin için de geçerli. Telefonuna bakmanıza, tüm mesajlarını okumanıza veya gittiği her yerde onu takip etmenize gerek yok.",A

@@ -1,0 +1,88 @@
+ind,activity_label,ctx_a,ctx_b,ctx,endings,source_id,split,split_type,label,question,answer,answerKey
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A
+46795,Gitar çalıyorum,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor.,o,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O,"['ağzından dumanı üflemeye devam ediyor.'
+ 'sigarayı cebine atar ve gitar çalmaya devam eder.'
+ 'duraklar ve başını eğerek oynamaya devam eder.'
+ 'mikrofona şarkı söylemeye başlar.']",activitynet~v_a8dUtKcAunw,train,indomain,3,"Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O
+Şıklar:
+A- ağzından dumanı üflemeye devam ediyor.
+B- sigarayı cebine atar ve gitar çalmaya devam eder.
+C- duraklar ve başını eğerek oynamaya devam eder.
+D- mikrofona şarkı söylemeye başlar.",mikrofona şarkı söylemeye başlar.,D
+46795,Gitar çalıyorum,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor.,o,Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O,"['ağzından dumanı üflemeye devam ediyor.'
+ 'sigarayı cebine atar ve gitar çalmaya devam eder.'
+ 'duraklar ve başını eğerek oynamaya devam eder.'
+ 'mikrofona şarkı söylemeye başlar.']",activitynet~v_a8dUtKcAunw,train,indomain,3,"Bir adam oturmuş sigara içiyor. Beyaz bir gitar tutuyor ve çalıyor. O
+Şıklar:
+A- ağzından dumanı üflemeye devam ediyor.
+B- sigarayı cebine atar ve gitar çalmaya devam eder.
+C- duraklar ve başını eğerek oynamaya devam eder.
+D- mikrofona şarkı söylemeye başlar.",mikrofona şarkı söylemeye başlar.,D
+27811,Disk köpeği,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar.",ördekler,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler","['İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.'
+ 'sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.'
+ 'Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.'
+ 'telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.']",activitynet~v_2wcD0wSzB5w,train,indomain,2,"Köpekler sadece frizbiyi yakalamakla kalmıyor, aynı zamanda onları almak için insan partnerlerinin üzerinden atlıyorlar. ördekler
+Şıklar:
+A- İlk adamın üzerinden atlayın, ancak daha sonra köpeğin sırtına dönmeye başlayınca diğer insanların üzerinden atlar ancak başarısız olur ve köpeğin tepesine atlar.
+B- sudan insan formunda çıkıyorlar ve birçoğu bir köpekle frizbi oynuyor.
+C- Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.
+D- telin üzerinden atlamaya devam ederken, hakemin direklerine yaslanarak duruyorlar.",Köpekler havuza atlarken gösterilirken tarlada yürümeye başlarlar.,C
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A
+40261,Yaprakları yan yatan,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor.,her ikisi de köpekler,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler,"['çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.'
+ 'arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.'
+ 'Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.'
+ 'bunu çok nazik olmaya çalışarak yap.']",activitynet~v_0MtST08F2Xc,train,indomain,2,"Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler
+Şıklar:
+A- çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.
+B- arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.
+C- Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.
+D- bunu çok nazik olmaya çalışarak yap.","Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.",C
+31036,İlişkiler,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.",,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.","['[title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.'
+ '[title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.'
+ 'Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.'
+ '[title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.']",wikihow~51138,val,indomain,2,"[header] Dudaklarınızı nasıl büzersiniz [title] Dudaklarınızı rahatlatın. [adım] Dudaklarınızı büzmeden önce onları rahat bırakın. Dudaklarınızın doğal bir şekilde sarkmasına izin verin, bu onları öpüşme sırasında daha yumuşak ve nazik tutacaktır.
+Şıklar:
+A- [title] İşaret ve orta parmaklarınızı birbirinden biraz ayrı olacak şekilde yerleştirin. [adım] Serçe parmağınız ve yüzük parmaklarınız orta ve orta parmaklarınızla aynı yerde olmalıdır.
+B- [title] Nefes alırken nefesinizi şekillendirmeye çalışın. [adım] Dudaklarınızı fiziksel olarak hafifçe aşağı doğru hareket ettirirseniz, dudaklarınızı büzmek daha kolay olur.
+C- Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.
+D- [title] Dudaklarınızı ağzınızın içinde tutun. [adım] Nazik ol; Çok fazla dudak büzüştürmek, uzun süreli açılmaya ve baloncukların patlamasına neden olabilir.",Öpüşmeden hemen önce dudaklarınıza dikkat edin ve onları germediğinizden emin olun. [alt adımlar] Dudaklarınızı gevşetmeye yardımcı olmak için ağzınızdan hafifçe nefes alarak dudaklarınızı gevşetebilirsiniz.,C
+12283,Kano sporu,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor.",o,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O","['kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.'
+ 'Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.'
+ 'daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.'
+ 'kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.']",activitynet~v_QnATCZ_P9DE,train,indomain,0,"Suda kask takan, elinde kürek tutan ve kanoda oturan bir adam gösteriliyor. O
+Şıklar:
+A- kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.
+B- Kayalık suların üzerinde kürek çekiyor, en sonunda suya giriyor.
+C- daha sonra su kayağının nasıl yapıldığını nasıl anlattığını gösteriyor.
+D- kendini teknenin yanından yüzeye doğru çekiyor, sonra nehrin aşağısına doğru.",kanonun nasıl kullanılacağı hakkında kameraya konuşuyor.,A
+40261,Yaprakları yan yatan,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor.,her ikisi de köpekler,Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler,"['çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.'
+ 'arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.'
+ 'Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.'
+ 'bunu çok nazik olmaya çalışarak yap.']",activitynet~v_0MtST08F2Xc,train,indomain,2,"Yaprakları tırmıklayan kişinin etrafında zıplayan siyah bir köpek ve beyaz bir köpek var. Beyaz köpek tırmığı ısırmaya çalışıyor. her ikisi de köpekler
+Şıklar:
+A- çimenlerin üzerinde yürüyorlar ve köpeklerden biri düşüyor.
+B- arka ayakları üzerinde durup tırmıktan çıkmaya çalışıyorlar.
+C- Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.
+D- bunu çok nazik olmaya çalışarak yap.","Yaprakları tırmıklayan, tırmığı ısırmaya çalışan adamın etrafında oynuyorlar.",C
+13560,Baton döndürme,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor.,o,Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o,"['sopayı havaya fırlatır.' 'havada coplarla hareket ediyor.'
+ 'kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.'
+ 'yerde ileri geri gider.']",activitynet~v_e0-lO2jb8vo,val,indomain,0,"Spor salonunun zemininde bir cop döndürücü duruyor. Rutinine başlıyor. o
+Şıklar:
+A- sopayı havaya fırlatır.
+B- havada coplarla hareket ediyor.
+C- kollarını biraz dışarı atıyor ve sonra asasını tekrar içeri sokuyor.
+D- yerde ileri geri gider.",sopayı havaya fırlatır.,A

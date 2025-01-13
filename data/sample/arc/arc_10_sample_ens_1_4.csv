@@ -1,0 +1,61 @@
+id,question,choices,answerKey,answer
+LEAP_2008_4_10288,"Bir bölgede çok fazla balık avlanması ekosistemi nasıl etkiler?
+Şıklar:
+A. Balıklar, yakalanan balıkların yerine çok daha fazla yumurta bırakacaktır.
+B. Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.
+C. Balıkların yediği organizmalar tehlike altına girecek.
+D. İnsanlar çok fazla balık yiyip hastalanabilirler.","{'text': ['Balıklar, yakalanan balıkların yerine çok daha fazla yumurta bırakacaktır.', 'Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.', 'Balıkların yediği organizmalar tehlike altına girecek.', 'İnsanlar çok fazla balık yiyip hastalanabilirler.'], 'label': ['A', 'B', 'C', 'D']}",B,Balıkları yiyen organizmalar açlık nedeniyle tehlike altına girebilir.
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul
+Mercury_SC_400700,"Hangi gerçek neden Dünya'da hayat olduğunu ama Ay'da olmadığını en iyi açıklıyor?
+Şıklar:
+A. Ay'ın yerçekimi yoktur.
+B. Ay Güneş'in etrafında dönmez.
+C. Ay'da çok az su ve oksijen vardır.
+D. Ay Dünya'dan çok daha küçüktür.","{'text': [""Ay'ın yerçekimi yoktur."", ""Ay Güneş'in etrafında dönmez."", ""Ay'da çok az su ve oksijen vardır."", ""Ay Dünya'dan çok daha küçüktür.""], 'label': ['A', 'B', 'C', 'D']}",C,Ay'da çok az su ve oksijen vardır.
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul
+Mercury_7115273,"Bir gölün yüzeyindeki büyük alg çoğalmaları hangi abiyotik faktörün dibe ulaşmasını engeller?
+Şıklar:
+A. su
+B. tuz
+C. ışık
+D. oksijen","{'text': ['su', 'tuz', 'ışık', 'oksijen'], 'label': ['A', 'B', 'C', 'D']}",C,ışık
+Mercury_SC_416515,"Hangi su kütlesinde en az bitki ve hayvan yaşıyor?
+Şıklar:
+A. okyanus
+B. aktarım
+C. buzul
+D. haliç","{'text': ['okyanus', 'aktarım', 'buzul', 'haliç'], 'label': ['A', 'B', 'C', 'D']}",C,buzul
+Mercury_183978,"Bunlardan hangisi yırtıcı hayvanlara karşı savunmaya yönelik bir adaptasyon örneğidir?
+Şıklar:
+A. zürafanın uzun boynu
+B. yavru geyik lekeleri
+C. su samuru yağlı kürkü
+D. balığın solungaçları","{'text': ['zürafanın uzun boynu', 'yavru geyik lekeleri', 'su samuru yağlı kürkü', 'balığın solungaçları'], 'label': ['A', 'B', 'C', 'D']}",B,yavru geyik lekeleri
+Mercury_SC_400700,"Hangi gerçek neden Dünya'da hayat olduğunu ama Ay'da olmadığını en iyi açıklıyor?
+Şıklar:
+A. Ay'ın yerçekimi yoktur.
+B. Ay Güneş'in etrafında dönmez.
+C. Ay'da çok az su ve oksijen vardır.
+D. Ay Dünya'dan çok daha küçüktür.","{'text': [""Ay'ın yerçekimi yoktur."", ""Ay Güneş'in etrafında dönmez."", ""Ay'da çok az su ve oksijen vardır."", ""Ay Dünya'dan çok daha küçüktür.""], 'label': ['A', 'B', 'C', 'D']}",C,Ay'da çok az su ve oksijen vardır.
+Mercury_7115273,"Bir gölün yüzeyindeki büyük alg çoğalmaları hangi abiyotik faktörün dibe ulaşmasını engeller?
+Şıklar:
+A. su
+B. tuz
+C. ışık
+D. oksijen","{'text': ['su', 'tuz', 'ışık', 'oksijen'], 'label': ['A', 'B', 'C', 'D']}",C,ışık
+Mercury_SC_400700,"Hangi gerçek neden Dünya'da hayat olduğunu ama Ay'da olmadığını en iyi açıklıyor?
+Şıklar:
+A. Ay'ın yerçekimi yoktur.
+B. Ay Güneş'in etrafında dönmez.
+C. Ay'da çok az su ve oksijen vardır.
+D. Ay Dünya'dan çok daha küçüktür.","{'text': [""Ay'ın yerçekimi yoktur."", ""Ay Güneş'in etrafında dönmez."", ""Ay'da çok az su ve oksijen vardır."", ""Ay Dünya'dan çok daha küçüktür.""], 'label': ['A', 'B', 'C', 'D']}",C,Ay'da çok az su ve oksijen vardır.

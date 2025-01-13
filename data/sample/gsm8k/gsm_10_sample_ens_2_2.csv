@@ -1,0 +1,60 @@
+question,raw_answer,answer,short_answer,formated_answer
+"Craig ve kardeşi bildikleri en uzun harfli kelimeleri sırayla heceliyor ve bu kelimelerdeki harf sayısını sayıyorlar. On tur sonunda, Craig her biri 15 harfli 20 kelime heceler. Eğer Craig'in kardeşi, Craig'den toplamda 50 harf fazla hecelenmiş kelimeler hecelerse, on tur sonunda heceledikleri kelimelerdeki toplam harf sayısını hesaplayın.","On tur sonunda, Craig bildiği en uzun harfli kelimelerden her biri 15 harfli olan 20 kelime heceler. Bu durumda Craig toplamda 20*15 = 300 harf hecelemiş olur.
+
+Craig'in kardeşi ise Craig'den toplamda 50 harf fazla hecelemiştir. Bu durumda kardeşi 300+50 = 350 harf hecelemiş olur.
+
+İki kardeşin heceledikleri kelimelerdeki toplam harf sayısı ise 350+300 = 650 harf olur.
+
+#### 650","On tur sonunda, Craig bildiği en uzun harfli kelimelerden her biri 15 harfli olan 20 kelime heceler. Bu durumda Craig toplamda 20*15 = 300 harf hecelemiş olur.
+
+Craig'in kardeşi ise Craig'den toplamda 50 harf fazla hecelemiştir. Bu durumda kardeşi 300+50 = 350 harf hecelemiş olur.
+
+İki kardeşin heceledikleri kelimelerdeki toplam harf sayısı ise 350+300 = 650 harf olur.",650,"{'answer': ""On tur sonunda, Craig bildiği en uzun harfli kelimelerden her biri 15 harfli olan 20 kelime heceler. Bu durumda Craig toplamda 20*15 = 300 harf hecelemiş olur.\n\nCraig'in kardeşi ise Craig'den toplamda 50 harf fazla hecelemiştir. Bu durumda kardeşi 300+50 = 350 harf hecelemiş olur.\n\nİki kardeşin heceledikleri kelimelerdeki toplam harf sayısı ise 350+300 = 650 harf olur."", 'short_answer': '650'}"
+"Ronnie'ye 5 dolar verilirken Rissa'ya üç katı kadar verildi. Her biri küçük kız kardeşlerine eşit miktarda para verdikten sonra, Rissa'nın parasının 4/5'i kalmıştır. Ronnie'nin parasında ne kadar kalmıştır?","Rissa'ya 5 doların 3 katı kadar, yani $5 x 3 = $15 verildi. Rissa küçük kız kardeşine bir miktar para verdikten sonra, parasının 4/5'i, yani $15 x 4/5 = $12'si kalmıştır. Bu, Rissa'nın kız kardeşine $15 - $12 = $3 verdiği anlamına gelir. Ronnie de Rissa ile aynı miktarda, yani $3 verdiğinden, Ronnie'nin elinde $5 - $3 = $2 kalmıştır.
+#### 2","Rissa'ya 5 doların 3 katı kadar, yani $5 x 3 = $15 verildi. Rissa küçük kız kardeşine bir miktar para verdikten sonra, parasının 4/5'i, yani $15 x 4/5 = $12'si kalmıştır. Bu, Rissa'nın kız kardeşine $15 - $12 = $3 verdiği anlamına gelir. Ronnie de Rissa ile aynı miktarda, yani $3 verdiğinden, Ronnie'nin elinde $5 - $3 = $2 kalmıştır.",2,"{'answer': ""Rissa'ya 5 doların 3 katı kadar, yani $5 x 3 = $15 verildi. Rissa küçük kız kardeşine bir miktar para verdikten sonra, parasının 4/5'i, yani $15 x 4/5 = $12'si kalmıştır. Bu, Rissa'nın kız kardeşine $15 - $12 = $3 verdiği anlamına gelir. Ronnie de Rissa ile aynı miktarda, yani $3 verdiğinden, Ronnie'nin elinde $5 - $3 = $2 kalmıştır."", 'short_answer': '2'}"
+"Dr. Wertz'in okulunda kız öğrencilerin sayısının iki katı kadar erkek öğrenci vardır. Eğer 60 kız öğrenci varsa ve her öğretmene düşen öğrenci sayısı 5 ise, okulda kaç öğretmen vardır?","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır. #### 36","Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır.",36,"{'answer': ""Dr. Wertz'in okulunda kız öğrencilerin sayısı 60 olduğuna göre, erkek öğrenci sayısı bu sayının iki katıdır, yani 2*60 = 120 erkek öğrenci vardır. Toplam öğrenci sayısı kız ve erkek öğrencilerin toplamıdır, bu da 120 + 60 = 180 öğrenci demektir. Her öğretmene düşen öğrenci sayısı 5 olduğuna göre, 180 öğrenci için 180/5 = 36 öğretmene ihtiyaç vardır. Dolayısıyla okulda 36 öğretmen bulunmaktadır."", 'short_answer': '36'}"
+"Elvis'in aylık birikim hedefi 1125 dolar. Nisan ayında, hedefine ulaşmak için ayın ilk yarısında biriktirdiğinin günde iki katını ayın ikinci yarısında biriktirmek istiyor. Ayın ikinci yarısındaki her gün için ne kadar biriktirmesi gerekiyor?","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor. #### 50","Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.
+
+Ayın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.
+
+Bu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:
+
+(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.
+
+Bu denklemi çözdüğümüzde:
+
+15*(3y/2) = 1125 dolar
+
+45y/2 = 1125 dolar
+
+y = 1125 dolar * (2/45)
+
+y = 50 dolar
+
+Bu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor.",50,"{'answer': ""Elvis, Nisan ayında aylık birikim hedefine ulaşmak için ayın ilk yarısında her gün biriktirdiği miktarın iki katını ayın ikinci yarısında biriktirmek istiyor. Diyelim ki ayın ikinci yarısında her gün biriktirmesi gereken miktar y olsun.\n\nAyın ilk yarısında her gün y/2 miktarında biriktirdiğine göre, 15 gün boyunca toplamda 15*(y/2) biriktirmiş olacak. Ayın ikinci yarısında ise her gün y miktarında biriktirerek, 15 gün boyunca toplamda 15*y biriktirecek.\n\nBu durumda, ayın ilk yarısında biriktirdiği toplam miktar ile ikinci yarısında biriktirdiği toplam miktarı topladığımızda Elvis'in aylık birikim hedefi olan 1125 doları elde etmeliyiz. Yani:\n\n(15*(y/2)) + (15*y) = 1125 dolar olmalıdır.\n\nBu denklemi çözdüğümüzde:\n\n15*(3y/2) = 1125 dolar\n\n45y/2 = 1125 dolar\n\ny = 1125 dolar * (2/45)\n\ny = 50 dolar\n\nBu durumda, Elvis'in Nisan ayının ikinci yarısındaki her gün için 50 dolar biriktirmesi gerekiyor."", 'short_answer': '50'}"
+"Tom'un restoranı her gece 6 rezervasyon alıyor. Genellikle her biri 5 dolar olan 2 yemek ve 5 dolarlık bir şişe şarap sipariş ediyorlar. Haftada 2 gün açıksalar, bir haftada ne kadar kazanırlar?","Her masa için yemeklerin maliyeti 2*5=10 dolar oluyor.
+Böylece her masa gecelik 10+5=15 dolar ödüyor.
+Bu da onların her gece 6*15=90 dolar kazandıkları anlamına geliyor.
+Demek ki haftada 90*2=180 dolar kazanıyorlar.
+#### 180","Her masa için yemeklerin maliyeti 2*5=10 dolar oluyor.
+Böylece her masa gecelik 10+5=15 dolar ödüyor.
+Bu da onların her gece 6*15=90 dolar kazandıkları anlamına geliyor.
+Demek ki haftada 90*2=180 dolar kazanıyorlar.",180,"{'answer': 'Her masa için yemeklerin maliyeti 2*5=10 dolar oluyor.\nBöylece her masa gecelik 10+5=15 dolar ödüyor.\nBu da onların her gece 6*15=90 dolar kazandıkları anlamına geliyor.\nDemek ki haftada 90*2=180 dolar kazanıyorlar.', 'short_answer': '180'}"
