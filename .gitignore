@@ -1,13 +1,13 @@
-# By Metin Uslu
-garbage
-data/raw/
+# by Metin Uslu
 .ipynb_checkpoints
 __pycache__
+cache
+garbage
+reports
+~$Performans.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
 
 # C extensions
 *.so
